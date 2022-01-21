@@ -1,5 +1,5 @@
 {
-  "name": "constructsplit-admin",
+  "name": "vut-ts-template",
   "version": "0.0.0",
   "scripts": {
     "serve": "vite preview",
