@@ -1,6 +1,6 @@
 {
-  "name": "vut-ts-template",
-  "version": "0.0.0",
+  "name": "<%= className %>",
+  "version": "<%= version %>",
   "scripts": {
     "serve": "vite preview",
     "build": "vue-tsc --noEmit && vite build",
