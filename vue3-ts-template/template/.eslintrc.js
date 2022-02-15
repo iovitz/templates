@@ -28,8 +28,7 @@ const config =  {
         {
           'ignores': ['index']
         }
-      ]
-    },
+    ],
     '@typescript-eslint/no-non-null-assertion': 'off',
     'no-irregular-whitespace': 'off',
     'vue/no-mutating-props': 'off',
