@@ -1,4 +1,4 @@
-const config =  {
+const config = {
   root: true,
   env: {
     browser: true,
@@ -25,9 +25,9 @@ const config =  {
     ],
     'vue/multi-word-component-names': [
       'error',
-        {
-          'ignores': ['index']
-        }
+      {
+        ignores: ['index'],
+      },
     ],
     '@typescript-eslint/no-non-null-assertion': 'off',
     'no-irregular-whitespace': 'off',

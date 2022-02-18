@@ -1,7 +1,8 @@
 import { defineComponent } from 'vue'
+import HelloWorld from './HelloWorld.vue'
 
 export default defineComponent({
   setup() {
-    return () => <h1>qwer</h1>
+    return () => <HelloWorld></HelloWorld>
   },
 })
